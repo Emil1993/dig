@@ -1,6 +1,0 @@
-print('hello world')
-<<<<<<< HEAD
-print(input())
-=======
-bye
->>>>>>> feature/bye
